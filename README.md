@@ -1,7 +1,7 @@
 # Skillfactory
 ## PROJECT-1. Анализ резюме из HeadHunter
 
-**Всем привет! Это мой проект по анализу резюме из HeadHunter!**
+**Это мой проект по анализу резюме из HeadHunter!**
 
 ### Описание файлов ###
 1. "dst-3.0_16_1_hh_database.csv" - Изначальный DataFrame резюме соискателей с HH.ru
