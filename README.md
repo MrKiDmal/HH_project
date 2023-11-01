@@ -8,4 +8,4 @@
 https://disk.yandex.ru/d/e3V96nZBvjVV_g
 2. "ExchangeRates.csv" - Курс валют
 3. "Project-1. Ноутбук-шаблон.ipynb" - Ноутбук с решением
-4. "plotly_figures" - Папка с сохраненными фигурами Plotly
+4. "charts" - Папка с сохраненными фигурами Plotly
